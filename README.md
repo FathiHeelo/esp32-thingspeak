@@ -9,7 +9,7 @@ This project reads temperature and humidity from a DHT22 sensor connected to an 
 
 ## Links
 - **ThingSpeak Public URL:** https://thingspeak.com/channels/3551681
-- **Wokwi Project:** [paste Wokwi link here]
+- **Wokwi Project:** (https://wokwi.com/projects/478958418047763457)
 
 ## Hardware / Simulation
 - ESP32 Dev Board (simulated in Wokwi)
